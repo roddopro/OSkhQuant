@@ -8,11 +8,18 @@
 
 本仓库提供的是看海量化交易系统的**完整程序源码**，面向具备一定编程基础的开发者和量化研究人员。
 
-**如果您希望直接使用，无需配置开发环境，可以选择：**
+**如果您希望直接使用，无需配置开发环境：**
 
-💡 **推荐使用打包好的exe程序** - 已经打包好的可执行程序，开箱即用，无需安装Python环境和依赖库。
+💡 **推荐使用打包好的 exe 程序** —— 已经打包好的可执行程序，开箱即用，无需安装 Python 环境和依赖库。
 
-🔗 **获取方式**：请访问[看海量化官方网站](https://khsci.com/khQuant/)下载最新的安装包。
+🔗 **获取方式**：
+
+- **官网下载**：访问[看海量化官方网站](https://khsci.com/khQuant/)获取最新的安装包。
+- **GitHub Releases 下载**：前往 [https://github.com/khscience/OSkhQuant/releases/latest](https://github.com/khscience/OSkhQuant/releases/latest)，在页面底部的 **Assets** 区域点击 `看海量化回测平台_Vx.x.x.exe` 即可下载。
+
+> ⚠️ **Windows 安全提示**：首次运行可能出现"Windows 已保护你的电脑"提示，这是因为安装包未购买付费数字签名（开源项目普遍情况），选择"更多信息" → "仍要运行"即可。
+
+如需下载源代码进行二次开发，请使用 GitHub 页面顶部的 `Code` → `Download ZIP`，或使用 `git clone`。
 
 ---
 
